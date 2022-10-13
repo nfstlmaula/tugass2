@@ -1,0 +1,53 @@
+body {
+	background-color: #6ecca8;
+	font: 16px time new roman, sans-serif;
+}
+.ul {
+	list-style: none;
+	padding: 0;
+}
+.container {
+	width: 800px;
+	margin: auto;
+	background-color: white;
+}
+.header {
+	padding: 20px;
+}
+.header ul li{
+	display: inline-block;
+	margin-top: -20px;
+	margin-right: 20px;
+}
+.header a {
+	text-decoration: none;
+	color: #8fb8a8;
+	font-weight: bold;
+}
+.header a:hover {
+	color: white;
+	background-color: #6ecca8;
+	padding: 10px;
+	border-radius: 15px;
+}
+.banner {
+	height: 250px;
+	background-image: url(teror.jpg);
+	background-position: 0px -520px;
+	border-top: 5px solid #366352;
+	border-bottom: 5px solid #366352;
+}
+.h2 {
+	padding: 20px;
+	padding-bottom: 10px;
+}
+.isi {
+	padding: 15px;
+}
+p {
+	font-size: 10pt;
+}
+ .footer {
+ 	height: 40px;
+ 	background-color: 
+ }

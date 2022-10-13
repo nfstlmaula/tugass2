@@ -1,0 +1,34 @@
+body {
+	background-color: #98c6f5;
+	font: 16px time new roman, sans-serif;
+}
+.container {
+	width: 800px;
+	margin: auto;
+	background-color: white;
+}
+.header {
+	padding: 20px;
+}
+.header ul li{
+	display: inline-block;
+	margin-top: -20px;
+	margin-right: 20px;
+}
+.header a {
+	text-decoration: none;
+	color: #8fb8a8;
+	font-weight: bold;
+}
+.header a:hover {
+	color: white;
+	background-color: #98c6f5;
+	padding: 10px;
+	border-radius: 15px;
+}
+p {
+	padding: 20px;
+	padding-top: 0px;
+	padding-bottom: 5px;
+	text-align: justify;
+}

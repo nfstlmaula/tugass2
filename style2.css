@@ -1,0 +1,49 @@
+body {
+	background-color: #ebc383;
+	font: 16px garamond, sans-serif;
+}
+.container {
+	width: 800px;
+	margin: auto;
+	background-color: white;
+}
+.header {
+	padding: 20px;
+}
+.header ul li{
+	display: inline-block;
+	margin-top: -20px;
+	margin-right: 20px;
+}
+.header a {
+	text-decoration: none;
+	color: #8fb8a8;
+	font-weight: bold;
+}
+.header a:hover {
+	color: white;
+	background-color: #ebc383;
+	padding: 10px;
+	border-radius: 15px;
+}
+.banner {
+	height: 250px;
+	background-image: url(lesti.jpeg);
+	background-position: 0px -520px;
+	border-top: 5px solid #ebc383;
+	border-bottom: 5px solid #ebc383;
+}
+h2 {
+	padding: 20px;
+	padding-bottom: 10px;
+}
+p {
+	padding: 20px;
+	padding-top: 0px;
+	padding-bottom: 5px;
+	text-align: justify;
+}
+ .footer {
+ 	height: 40px;
+ 	background-color: 
+ }
